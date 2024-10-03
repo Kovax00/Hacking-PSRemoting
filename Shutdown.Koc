@@ -1,0 +1,3 @@
+# Utiliza este comando para apagar el computador de un objetivo
+
+shutdown /s /f /m <Nombre del pc victima>

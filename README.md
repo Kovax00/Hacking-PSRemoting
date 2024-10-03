@@ -5,3 +5,4 @@ esto suele suceder mucho en Universidades, Pymes altas-medianas-chicas normalmen
 ## USO Msj
 
 Usos en pymes y Universidades/instituto, simplemente remplaza
+![Captura de pantalla 2024-10-03 020927](https://github.com/user-attachments/assets/285ee701-2897-4ad3-89c9-b8f7b9c94812)

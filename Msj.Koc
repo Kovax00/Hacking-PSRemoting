@@ -1,0 +1,3 @@
+# Envia un mensaje a otro pc en la misma red
+
+MSG * /SERVER:<NOMBRE DEL PC VICTIMA> <MENSAJE>
